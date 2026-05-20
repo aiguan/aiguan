@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Ai <img src="images/waving.gif" width="40">
 
 <!--
 **aiguan/aiguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
